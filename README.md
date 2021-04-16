@@ -1,16 +1,16 @@
-### Hi there 👋
+### I am Max, howdy, partner 👋
 
-<!--
-**maxipavlovic/maxipavlovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 Love programming in any language, but best at Python
+- 🤝 Believe in team work, agile and my current project - [CloudBlue Connect](https://www.cloudblue.com/connect/)
+- 🌐 Fluent in English, hablo un poco Español, ein bisschen deutch и по-русски умею :)
+- 🎸 Can't live without music - [playlist](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- ⚔️ IT Witcher
 
-Here are some ideas to get you started:
+--------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ Fun facts:
+- Wrote [django-rql](https://github.com/cloudblue/django-rql) and [django-cqrs](https://github.com/cloudblue/django-cqrs)
+- I have a serious photo right there ↖️, but I am not that serious at all
+- Have a surname, that's hard to pronounce
+- Occasionally write [on Medium](https://medium.com/@maxipavlovic)
+- This is the way, I have spoken.
