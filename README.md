@@ -1,4 +1,4 @@
-### I am Max, howdy, partner 👋
+### I am Max, hi 👋
 
 - 🐍 Love programming in any language, but best at Python
 - 🤝 Believe in team work, agile and my current project - [CloudBlue Connect](https://www.cloudblue.com/connect/)
