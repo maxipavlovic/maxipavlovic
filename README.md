@@ -12,6 +12,5 @@
 - Wrote [django-rql](https://github.com/cloudblue/django-rql) and [django-cqrs](https://github.com/cloudblue/django-cqrs)
 - Love to have fun
 - Have a surname, that's hard to pronounce
-- Occasionally write [on Medium](https://medium.com/@maxipavlovic)
-- [MLSL](https://github.com/maxipavlovic/superleague) creator
+- Occasionally (practically never) write [on Medium](https://medium.com/@maxipavlovic)
 - This is the way, I have spoken.
