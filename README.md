@@ -1,7 +1,7 @@
 ### I am Max, hi 👋
 
 - 🐍  Love programming in any language, but best at Python
-- 🤝  Believe in team work, agile and my current project - [CloudBlue Connect](https://www.cloudblue.com/connect/)
+- 🤝  Believe in team work, agile and my current projects
 - 🌐  Fluent in English, hablo Español и по-русски могу :)
 - 🎸  Can't live without music - [playlist](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 🤪  3.(428571) software engineer
