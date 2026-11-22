@@ -18,8 +18,6 @@ jobs:
           python-version: "3.12"
       - run: pip install -r build/requirements.txt
       - run: python build/build.py --fetch
-        env:
-          GH_TOKEN: ${{ github.token }}
       - name: Commit if anything changed
         run: |
           git diff --quiet && exit 0

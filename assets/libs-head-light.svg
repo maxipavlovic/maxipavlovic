@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="48" viewBox="0 0 84 48" role="img" aria-label="LIBS"><title>LIBS</title><style>svg{--paper:#ecebe7;--ink:#0e0e0d;--ink2:#57564f;--rule:#0e0e0d;--rule2:#bdbcb5;--sig:#f0561a;--sigink:#b23d08;--hw:1}@font-face{font-family:F-mono;src:url(data:font/woff2;base64,d09GMgABAAAAAALQAA8AAAAABSQAAAJ4AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEQATBEICoJogjcBNgIkAwwLDAAEIAWBMAcgG+QDCB6D425DC8USg33U2/J6ng+l5SF+v35n5t1ViailTT9iZv2HQjJLgb6pYZVGpT0D1tz9fqaNOMmKmU/UKjRCgwZNtEGzJNo1qfc/wC/ndccX+7yw7QAYxgGFbW3fgjzjQK8JBJ6FiUaYa1u6TR8RhKEag3b3FJsJBPqAFFIRAl1rrBMH61t7wVSgFhDo2maH1Nr4LzV+J7Jk0C+5JD6iQb6mXAWcOOW4jewwA9nTSXAE2secPtNehy1U66lurVD24wsBeZUUgw0qIbQl5hJb5KrebyYIVp+Y/QSEYiyQ0fcQVEJGIz5CLgGJCnOVwFyxgq62lPZr0qqn/g+2jtu0brEAQIhaI4QG6KKDF+AjgAIqlRCilGrMYvWbeziMUfM+j9a/ReP1Wr03J0gfN2J3O3Z/8TMic8pmB2zP80Y3RrqlR0kZuPL95Coc1vefniY9O+tNn5xcYs/FU8dIH9T1UZQ+Ph57enp5TEwRX8iWzpfUs/Z2RDfcRaZ9huLSPo3wsEZTa5wJpGOWeHt3ZUnJpO1xfby5ray4WGiOY+zFTvOOjRLvwIrYu9pjw/Z+s6uosr6jrly+YBrgmkQWz2RTtTVc0tkZKqq1Upvt/z211U3d9eWK+cEBrllo8U40VVoDxR2dwdxaLVkD4L9AUI4ynyZGpa9Msvob+HHz7xvw5/KVG331QyZIFWhKEHzLjlzikopMgNAOiVzilqgxK7iEQMMeFQjmm06jKB1hAVNpaGEEfXt16DpZN1To3+ZlbTS8/Cw0nMROcXFyEbvAwMGiTpibhpOegV43A5MAOw2vAQYWJmZ+Ayz0/MzauXg5aNiRQL0WbwEA) format('woff2')}
+.paper{fill:var(--paper)}
+.ink{fill:var(--ink)}.ink2{fill:var(--ink2)}.sig{fill:var(--sig)}.sigink{fill:var(--sigink)}
+.h,.h2{fill:none;stroke-width:var(--hw);vector-effect:non-scaling-stroke}
+.h{stroke:var(--rule)}.h2{stroke:var(--rule2)}
+.c{shape-rendering:crispEdges}
+.cl{stroke-dasharray:18 3 2 3}
+.f-disp{font-family:F-disp}.f-text{font-family:F-text}
+.f-bold{font-family:F-bold}.f-mono{font-family:F-mono}
+text{font-kerning:normal}
+@media (min-resolution:2dppx){svg{--hw:.5}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes draw{from{stroke-dasharray:1;stroke-dashoffset:1}to{stroke-dasharray:1;stroke-dashoffset:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+.spin{animation:spin 160s linear infinite}
+.draw{animation:draw 1.6s cubic-bezier(.6,0,.2,1) backwards}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) backwards}
+@media (prefers-reduced-motion:reduce){.spin,.pulse,.draw,.rise{animation:none}}
+</style><rect class="paper" width="82.0" height="48"/><rect class="h c" x="0" y="0" width="82.0" height="48"/><text x="14.0" y="29.0" class="f-mono sigink" font-size="10" letter-spacing="0.80">LIBS</text></svg>
