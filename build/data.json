@@ -1,0 +1,34 @@
+{
+  "updated": "2026-11-22",
+  "github_since": "2014",
+  "agent_eye": {
+    "version": "0.3.0",
+    "works_with": [
+      "CLAUDE CODE",
+      "CODEX",
+      "AGY",
+      "OPENCODE"
+    ]
+  },
+  "repos": {
+    "cloudblue/django-rql": {
+      "stars": 98,
+      "commits": 249
+    },
+    "cloudblue/django-cqrs": {
+      "stars": 130,
+      "commits": 234
+    },
+    "cloudblue/lib-rql": {
+      "stars": 22
+    },
+    "maxipavlovic/sixseven": {
+      "stars": 3
+    }
+  },
+  "pypi": {
+    "django-rql": 10128,
+    "django-cqrs": 3379,
+    "lib-rql": 9323
+  }
+}
