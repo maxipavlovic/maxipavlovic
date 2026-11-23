@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "github_since": "2014",
   "agent_eye": {
-    "version": "0.3.0"
+    "version": "0.3.2"
   },
   "pypi": {
-    "django-rql": 10128,
-    "django-cqrs": 3379
+    "django-rql": 9925,
+    "django-cqrs": 3333
   }
 }
